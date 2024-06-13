@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @berkaysyasar
+- 👋 Hi, I’m Berkay.
 - 👀 I’m interested in Android Development.
 - 🌱 I’m currently learning Kotlin.
 - 📫 How to reach me https://www.linkedin.com/in/berkaysyasar/
