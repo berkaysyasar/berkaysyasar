@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Berkay.
-- 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning Kotlin.
-- 📫 How to reach me https://www.linkedin.com/in/berkaysyasar/
-- ⚡ Fun fact: I need a job very bad :)
+### Hi, I'm Berkay 👋
 
-<!---
-berkaysyasar/berkaysyasar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🏭 **1C:ERP developer** — I build production, finance and approval workflows as extensions, without touching the base configuration.
+- 🛠️ On the side I write small Windows tools in **C# / .NET** and browser extensions in **JavaScript** — see [Set Screen Profile](https://github.com/berkaysyasar/Set-Screen-Profile), [SnapStack](https://github.com/berkaysyasar/SnapStack-Screenshot-App) and [ClipNote](https://github.com/berkaysyasar/ClipNote).
+- 📱 Background in Android / Kotlin.
+- 📫 [linkedin.com/in/berkaysyasar](https://www.linkedin.com/in/berkaysyasar/)
+- ⚡ Open to opportunities in 1C:ERP development.
